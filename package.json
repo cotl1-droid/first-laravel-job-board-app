@@ -9,6 +9,7 @@
         "format": "prettier --write resources/",
         "format:check": "prettier --check resources/",
         "lint": "eslint . --fix",
+        "test": "echo \"Error: no test specified\" && exit 1"
         "types": "tsc --noEmit"
     },
     "devDependencies": {
